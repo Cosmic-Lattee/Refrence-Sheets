@@ -177,9 +177,9 @@ data_action = [
 {
         title: "Healing Surge",
         icon: "holy-grail",
-        subtitle: "",
-        description: "heal up to half your HD",
-        reference: "PHB, pg. 193.",
+        subtitle: "Take a breather",
+        description: "Heal up to half your HD",
+        reference: "Houserule",
         bullets: [
             "As an action, a character can use a healing surge and spend up to half his or her Hit Dice. A character who uses a healing surge can’t do so again until he or she finishes a short or long rest."
         ]
