@@ -70,5 +70,5 @@ function init() {
     var modal = document.getElementById("modal");
     modal.onclick = hide_modal;
 }
-
+ 
 $(window).load(init);
