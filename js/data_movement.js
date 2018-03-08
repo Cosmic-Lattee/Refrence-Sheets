@@ -93,15 +93,6 @@ data_movement = [
         ]
     },
     {
-        title: "Improvise",
-        icon: "juggler",
-        subtitle: "Any stunt not on this list",
-        description: "Perform any movement or stunt you can imagine",
-        bullets: [
-            "When you describe a kind of movement not detailed elsewhere in the rules, the DM tells you whether it is possible and what kind of roll you need to make, if any, to determine success or failure."
-        ]
-    },
-    {
         title: "Difficult terrain",
         icon: "stone-pile",
         subtitle: "Cost modifier: +5ft per 5ft",
