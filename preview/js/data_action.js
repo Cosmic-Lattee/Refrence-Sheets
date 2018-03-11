@@ -183,5 +183,15 @@ data_action = [
         bullets: [
             "As an action, a character can use a healing surge and spend up to half his or her Hit Dice. A character who uses a healing surge can’t do so again until he or she finishes a short or long rest."
         ]
+},
+    {
+        title: "Improvise",
+        icon: "juggler",
+        subtitle: "Any action not on this list",
+        description: "Perform any action you can imagine",
+        reference: "PHB, pg. 193.",
+        bullets: [
+            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+        ]
 }
 ]
